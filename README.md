@@ -8,4 +8,4 @@ O projeto consiste em criar uma transição de imagens utilizando os recursos do
 
 Apesar de simples, vejo uma aplicação muito vasta em diversos sites por ai que utilizam este conceito para promover os seus produtos.
 
-Confira o resultado final do Slider 
+Confira o resultado final do <a href="https://brianmduarte.github.io/projeto-Slider/"> Slider </a>
